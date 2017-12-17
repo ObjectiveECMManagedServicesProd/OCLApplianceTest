@@ -5,7 +5,7 @@
     "baseUrl": {
       "type": "string",
       "metadata": {
-        "description": "Base URL for Marketplace test 6",
+        "description": "Base URL for Marketplace test 7",
         "artifactsBaseUrl": ""
        },
        "defaultValue": "https://github.com/ObjectiveECMManagedServicesProd/OCLApplianceTest/master"
